@@ -2,7 +2,7 @@
 - 👀 I’m interested in codding/programming
 - 🌱 I’m currently learning python3,java script,html...
 - 📧 only can answer you in my email(ramtinzm@outlook.com)
-- 🙏 looking for a good friend
+- 🙏 looking for a good partner
 
 <!---
-alexcobon is my nick name --->
+RZ is my nick name --->
